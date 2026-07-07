@@ -1,0 +1,6 @@
+{
+  "name": "Video Downloader",
+  "description": "A modern, material-designed native Android video downloader with built-in ad integration, download manager, and built-in video player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
